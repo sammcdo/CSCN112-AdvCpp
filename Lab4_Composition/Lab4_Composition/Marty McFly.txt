@@ -1,0 +1,35 @@
+***********************************************************
+Marty McFly
+Final Invoice
+***********************************************************
+
+WePaintHouses LLC.
+4040 Painting Pl.
+Scranton, PA 18447
+434-867-5309
+WePaintHousesLLC.com
+
+Billed to:	Marty McFly
+
+-----------------------------------------------------------
+                      Labor Charges                        
+                      -------------                        
+Rooms          Number of coats    Hourly Rate         Total
+5                           17          18.50        314.50
+                     Product Charges                       
+                     ---------------                       
+Room #            Paint Cans      Unit Cost          Amount
+0                       3.60          70.35          253.26
+1                       4.50          70.35          316.57
+2                       5.10          70.35          358.78
+3                       3.96          70.35          278.59
+4                       9.97          70.35          701.74
+Total Product Charges:                              1908.95
+                     Travel Charges                        
+                     --------------                        
+Mileage                            Rate Per Mile      Total
+5.00                                        0.67       3.35
+
+-----------------------------------------------------------
+
+Final Total:                                        1912.30
